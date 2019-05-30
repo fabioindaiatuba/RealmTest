@@ -1,4 +1,4 @@
-# RealmTest - Teste com react native e RealmDB
+# RealmTest - Exemplo com react native e RealmDB
 
 ![imagem com a tela do sistema](https://github.com/fabioindaiatuba/RealmTest/raw/master/snapshots/tela1.png)
 
