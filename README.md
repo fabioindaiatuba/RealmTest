@@ -1,6 +1,6 @@
 # RealmTest - Teste com react native e RealmDB
 
-![imagem com a tela do sistema](https://github.com/fabioindaiatuba/gonative-desafio-04/raw/master/snapshots/tela1.png)
+![imagem com a tela do sistema](https://github.com/fabioindaiatuba/RealmTest/raw/master/snapshots/tela1.png)
 
 ## Funções
 
